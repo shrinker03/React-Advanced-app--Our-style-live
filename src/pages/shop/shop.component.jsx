@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import './shop.styles.scss';
+
 import {Route} from 'react-router-dom';
-import CollectionOverviewContainer from '../../components/collections-overview/collection-overview.container';
-import CollectionPageContainer from '../collection/collection.container';
 import {connect} from 'react-redux';
 import { fetchCollectionsStartAsync } from '../../redux/shop/shop.actions';
 
+import CollectionOverviewContainer from '../../components/collections-overview/collection-overview.container';
+import CollectionPageContainer from '../collection/collection.container';
 
 class ShopPage extends Component {
     componentDidMount() {
