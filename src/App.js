@@ -3,9 +3,9 @@ import './App.css';
 
 import {connect} from 'react-redux';
 import {createStructuredSelector} from 'reselect';
+import {checkUserSession} from './redux/user/user.action';
 import {selectCurrentUser} from './redux/user/user.selectors';
 import {Switch, Route, Redirect} from 'react-router-dom';
-import {checkUserSession} from './redux/user/user.action';
 
 import Header from './components/header/header.component'
 import HomePage from './pages/homepage/homepage.component'
