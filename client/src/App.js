@@ -1,11 +1,11 @@
 import React, {useEffect} from 'react';
 import './App.css';
 
+import {Switch, Route, Redirect} from 'react-router-dom';
 import {connect} from 'react-redux';
 import {createStructuredSelector} from 'reselect';
 import {checkUserSession} from './redux/user/user.action';
 import {selectCurrentUser} from './redux/user/user.selectors';
-import {Switch, Route, Redirect} from 'react-router-dom';
 
 import Header from './components/header/header.component'
 import HomePage from './pages/homepage/homepage.component'
