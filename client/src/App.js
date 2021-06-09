@@ -1,8 +1,8 @@
 import React, {useEffect} from 'react';
 import './App.css';
 
-import {Switch, Route, Redirect} from 'react-router-dom';
 import {connect} from 'react-redux';
+import {Switch, Route, Redirect} from 'react-router-dom';
 import {createStructuredSelector} from 'reselect';
 import {checkUserSession} from './redux/user/user.action';
 import {selectCurrentUser} from './redux/user/user.selectors';
