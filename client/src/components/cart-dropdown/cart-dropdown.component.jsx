@@ -1,9 +1,9 @@
 import React from 'react';
 import './cart-dropdown.styles.scss';
 
+import {selectCartItems} from '../../redux/cart/cart.selectors';
 import {connect} from 'react-redux'
 import {createStructuredSelector} from 'reselect';
-import {selectCartItems} from '../../redux/cart/cart.selectors';
 import {withRouter} from 'react-router-dom';
 import {toggleCartHidden} from '../../redux/cart/cart.action';
 
