@@ -24,7 +24,11 @@
       
 
     &.large {
-        height: 380px;
+      height: 380px;
+
+      @media screen and (max-width: 800px) {
+        height: 220px;
+      }
     }
 
     &:first-child {
@@ -34,6 +38,7 @@
     &:last-child {
       margin-left: 7.5px;
     }
+
   
     .background-image {
         width: 100%;
@@ -66,5 +71,10 @@
         font-size: 18px;
         color: black;
       }
+    }
+
+    
+    @media screen and (max-width: 800px) {
+      height: 220px;
     }
   }
