@@ -1,5 +1,4 @@
 import React from 'react';
-import './homepage.styles.scss'
 
 import {HomePageContainer} from './homepage.styles';
 
