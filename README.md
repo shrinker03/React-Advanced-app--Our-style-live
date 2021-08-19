@@ -7,3 +7,6 @@ Product they offers :-
 > Hats > Jackets > Sneakers > Mens Wear > Womens Wear
 
 Live demo: https://our-style-live.herokuapp.com/
+
+Technology used :- 
+> React > Redux > Firebase > Stripe Payment > Redux-Saga > Heroku > Styled Components > React-Router 
