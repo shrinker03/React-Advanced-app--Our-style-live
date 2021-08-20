@@ -9,4 +9,4 @@ Product they offers :-
 Live demo: https://our-style-live.herokuapp.com/
 
 Technology used :- 
-> React > Redux > Firebase > Stripe Payment > Redux-Saga > Heroku > Styled Components > React-Router 
+> React > Redux > Firebase > Stripe Payment > Redux-Saga > Heroku > Styled Components > React-Router > Drag and Drop React
