@@ -1,7 +1,6 @@
 # React-Advanced-app--Our-style-live
 
-Business Scene :- 
-Our style is a fashion brand situated in New york city and they provide a very fine quality of fabric which is easily reflected on their product.
+Overview of project :- This project is a Progressive Web Application(PWA) i.e., user can install the app on web, mobile and desktop just like a native application.
 
 Product offered :-
 > Hats > Jackets > Sneakers > Mens Wear > Womens Wear
