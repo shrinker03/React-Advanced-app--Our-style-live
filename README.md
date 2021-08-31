@@ -4,10 +4,11 @@ Overview of project :- This project is a Progressive Web Application(PWA) i.e., 
 
 Technical Details :- The frontend of the app is made in React, Redux, Redux-saga, Styled Components and for the data fetching and Saving Firebase is used and for authentication Firestore is used and for payment Stripe Payment is used.
 
+Technology used :- 
+> React > Redux > Firebase > Firestore > Stripe Payment > Redux-Saga > Heroku > Styled Components > React-Router 
+
 Product offered :-
 > Hats > Jackets > Sneakers > Mens Wear > Womens Wear
 
 Live demo: https://our-style-live.herokuapp.com/
 
-Technology used :- 
-> React > Redux > Firebase > Firestore > Stripe Payment > Redux-Saga > Heroku > Styled Components > React-Router 
