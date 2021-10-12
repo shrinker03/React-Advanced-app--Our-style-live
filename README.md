@@ -1,4 +1,4 @@
-# React-Advanced-app--Our-style-live
+# React-Advanced-App-Our-Style
 
 Live demo: https://our-style-live.herokuapp.com/
 
